@@ -64,6 +64,7 @@ This project was developed as part of the USRF-2025 Fellowship.
 Under mentorship of:
 1. Dr. Gopendra Vikram Singh (Amity University, ACAI)
 2. Dr. Alok Tiwari (Amity University, ACAI)
+3. Rakesh Thakur(IISC researcher, Amity University ACAI)
 
 Reference:
 DU-MobileYOLO (Base Architecture):
