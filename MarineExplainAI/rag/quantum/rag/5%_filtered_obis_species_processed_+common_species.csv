@@ -1,0 +1,318 @@
+species_name,class_id_label,class_name_label,Response,prompt
+Psalidaster fisheri,0,fish,"{ ""species_name"": ""Psalidaster fisheri"", ""traits"": { ""color"": ""reddish-brown"", ""body_shape"": ""pentagonal, inflated body"", ""habitat"": ""deep-sea environments"", ""size"": ""up to 15 centimeters in diameter"", ""diet"": ""small invertebrates, such as crustaceans"", ""special"": ""large, spherical eyes and five short, broad-based arms"" } }","Write in a json format of the marine species Psalidaster fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Odontohenricia fisheri,0,fish,"{ ""species_name"": ""Odontohenricia fisheri"", ""traits"": { ""color"": ""pale brown with darker brown or reddish-brown markings"", ""body_shape"": ""heart-shaped body"", ""habitat"": ""deep-sea environments, typically on muddy or clay substrates"", ""size"": ""up to 7 centimeters in length"", ""diet"": ""small invertebrates, organic detritus"", ""special"": ""prominent, tooth-like spines on its arms"" } }","Write in a json format of the marine species Odontohenricia fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Leptasterias fisheri,0,fish,"{ ""species_name"": ""Leptasterias fisheri"", ""traits"": { ""color"": ""reddish-brown to dark brown"", ""body_shape"": ""pentagonal, slightly curved body"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 10 centimeters in diameter"", ""diet"": ""small invertebrates, such as crustaceans and mollusks"", ""special"": ""long, slender arms with numerous small, moveable spines"" } }","Write in a json format of the marine species Leptasterias fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Nepanthia fisheri,0,fish,"{ ""species_name"": ""Nepanthia fisheri"", ""traits"": { ""color"": ""reddish-brown"", ""body_shape"": ""pentagonal, slightly inflated body"", ""habitat"": ""deep-sea environments, particularly on muddy or clay substrates"", ""size"": ""up to 12 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""numerous, short, blunt spines covering its body and arms"" } }","Write in a json format of the marine species Nepanthia fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Hippocampus fisheri,0,fish,"{ ""species_name"": ""Hippocampus fisheri"", ""traits"": { ""color"": ""yellowish or orange with tiny, darker spots"", ""body_shape"": ""elongated body with a distinctive horse-like head"", ""habitat"": ""warm, shallow waters, typically among coral reefs or seaweed"", ""size"": ""up to 15 centimeters in length"", ""diet"": ""small crustaceans, such as brine shrimp and plankton"", ""special"": ""prehensile tail used for grasping onto coral or seaweed"" } }","Write in a json format of the marine species Hippocampus fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Parametra fisheri,0,fish,"{ ""species_name"": ""Parametra fisheri"", ""traits"": { ""color"": ""dark brown or black"", ""body_shape"": ""long, slender body with feathery arms"", ""habitat"": ""deep-sea environments, often found near underwater mountains or ridges"", ""size"": ""up to 60 centimeters in length"", ""diet"": ""small invertebrates, such as crustaceans and mollusks"", ""special"": ""feathery arms with numerous, tiny, finger-like appendages"" } }","Write in a json format of the marine species Parametra fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Henricia fisheri,0,fish,"{ ""species_name"": ""Henricia fisheri"", ""traits"": { ""color"": ""brown or reddish-brown"", ""body_shape"": ""rounded, somewhat flattened body"", ""habitat"": ""rocky areas or reefs in shallow to moderate depths"", ""size"": ""up to 25 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""short, stout arms with suckers on the underside for grasping and crawling"" } }","Write in a json format of the marine species Henricia fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Mithrodia fisheri,0,fish,"{ ""species_name"": ""Mithrodia fisheri"", ""traits"": { ""color"": ""pale yellow or cream with faint brown stripes"", ""body_shape"": ""heart-shaped body"", ""habitat"": ""warm, shallow waters, typically on sandy or muddy bottoms"", ""size"": ""up to 20 centimeters in length"", ""diet"": ""small invertebrates, such as crustaceans and mollusks"", ""special"": ""brittle stars with very long, slender arms and a distinctive pentagonal central disc"" } }","Write in a json format of the marine species Mithrodia fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Gracilaria fisheri,0,fish,"{ ""species_name"": ""Gracilaria fisheri"", ""traits"": { ""color"": ""reddish-brown to dark red"", ""body_shape"": ""branching, feathery structure"", ""habitat"": ""warm, shallow waters, typically attached to rocks or reefs"", ""size"": ""up to 30 centimeters in height"", ""diet"": ""photosynthetic algae, absorbs nutrients from the water"", ""special"": ""delicate, lacy fronds with a soft, gelatinous texture"" } }","Write in a json format of the marine species Gracilaria fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Phascolosoma (Fisherana) capitatum,0,fish,"{ ""species_name"": ""Phascolosoma (Fisherana) capitatum"", ""traits"": { ""color"": ""grayish-brown to dark brown"", ""body_shape"": ""elongated, worm-like body with a distinctive proboscis"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 20 centimeters in length"", ""diet"": ""detritivore, feeds on organic matter"", ""special"": ""fleshy, rounded proboscis used for capturing food particles from the seafloor"" } }","Write in a json format of the marine species Phascolosoma (Fisherana) capitatum with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Scrippsechinus fisheri,0,fish,"{ ""species_name"": ""Scrippsechinus fisheri"", ""traits"": { ""color"": ""dark brown to black"", ""body_shape"": ""round, flattened body with a hard, spiny shell"", ""habitat"": ""deep-sea environments, typically found on muddy or clay substrates"", ""size"": ""up to 10 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""highly branched, feathery tube feet used for capturing food and respiration"" } }","Write in a json format of the marine species Scrippsechinus fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Amphiophiura fisheri,0,fish,"{ ""species_name"": ""Amphiophiura fisheri"", ""traits"": { ""color"": ""grayish-brown to dark brown"", ""body_shape"": ""long, slender body with a distinctive, curved arm structure"", ""habitat"": ""deep-sea environments, often found near underwater mountains or ridges"", ""size"": ""up to 30 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""long, curved arms with numerous, small, grasping spines"" } }","Write in a json format of the marine species Amphiophiura fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Ichthyascaris fisheri,0,fish,"{ ""species_name"": ""Ichthyascaris fisheri"", ""traits"": { ""color"": ""translucent, colorless"", ""body_shape"": ""elongated, parasitic worm"", ""habitat"": ""inside the bodies of fish, typically in the intestines or muscles"", ""size"": ""up to 5 centimeters in length"", ""diet"": ""feeds on the host fish's tissues and bodily fluids"", ""special"": ""thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host"" } }","Write in a json format of the marine species Ichthyascaris fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Liparis fishelsoni,0,fish,"{ ""species_name"": ""Liparis fishelsoni"", ""traits"": { ""color"": ""reddish-brown with yellowish or orange fins"", ""body_shape"": ""elongated, eel-like body"", ""habitat"": ""deep-sea environments, commonly found in areas with soft sediments"", ""size"": ""up to 30 centimeters in length"", ""diet"": ""small invertebrates, such as crustaceans and mollusks"", ""special"": ""modified pectoral fins used as sucker-like organs for attachment to prey or substrate"" } }","Write in a json format of the marine species Liparis fishelsoni with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Megalocranchia fisheri,0,fish,"{ ""species_name"": ""Megalocranchia fisheri"", ""traits"": { ""color"": ""dark red or reddish-brown"", ""body_shape"": ""soft, cylindrical body with a short, muscular tail"", ""habitat"": ""deep-sea environments, typically found in areas with soft sediments"", ""size"": ""up to 10 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""large, tooth-like structures in the mouth for capturing prey"" } }","Write in a json format of the marine species Megalocranchia fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Chriolepis fisheri,0,fish,"{ ""species_name"": ""Chriolepis fisheri"", ""traits"": { ""color"": ""reddish-brown with yellowish or orange highlights"", ""body_shape"": ""small, slender body with a rounded head and large eyes"", ""habitat"": ""tropical and subtropical coral reefs"", ""size"": ""up to 3 centimeters in length"", ""diet"": ""small invertebrates, such as crustaceans and plankton"", ""special"": ""vibrant, iridescent scales that reflect light"" } }","Write in a json format of the marine species Chriolepis fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Dactylostylis walfishensis,0,fish,"{ ""species_name"": ""Dactylostylis walfishensis"", ""traits"": { ""color"": ""grayish-brown with darker stripes or spots"", ""body_shape"": ""long, slender body with a rounded head and a distinctive pair of pectoral fins"", ""habitat"": ""deep-sea environments, often found near underwater ridges or seamounts"", ""size"": ""up to 20 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""modified pectoral fins used for sensory purposes, resembling antennae"" } }","Write in a json format of the marine species Dactylostylis walfishensis with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Hyotissa fisheri,0,fish,"{ ""species_name"": ""Hyotissa fisheri"", ""traits"": { ""color"": ""dark brown or purple"", ""body_shape"": ""oval-shaped shell with a slightly opened umbone"", ""habitat"": ""warm, shallow waters, typically found in sandy or muddy areas"", ""size"": ""up to 6 centimeters in length"", ""diet"": ""filter feeder, feeds on plankton and small invertebrates"", ""special"": ""shell has prominent, radiating ribs and irregular, wavy growth lines"" } }","Write in a json format of the marine species Hyotissa fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Anseropoda fisheri,0,fish,"{ ""species_name"": ""Anseropoda fisheri"", ""traits"": { ""color"": ""pale yellow or cream with faint brown patches"", ""body_shape"": ""disk-shaped body with five long, slender arms"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 20 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""long, hair-like appendages called cirri on the underside of the arms"" } }","Write in a json format of the marine species Anseropoda fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Asthenactis fisheri,0,fish,"{ ""species_name"": ""Asthenactis fisheri"", ""traits"": { ""color"": ""dark brown or black with whitish spots"", ""body_shape"": ""five-armed starfish with a distinctive, elongated body shape"", ""habitat"": ""deep-sea environments, typically found near underwater ridges or seamounts"", ""size"": ""up to 15 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""arms are long and slender with numerous, small spines along the sides"" } }","Write in a json format of the marine species Asthenactis fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Astroceramus fisheri,0,fish,"{ ""species_name"": ""Astroceramus fisheri"", ""traits"": { ""color"": ""pale yellow or cream with darker spots"", ""body_shape"": ""starfish with a distinctive, cup-shaped body and five short arms"", ""habitat"": ""warm, shallow waters, typically found in coral reefs or rocky areas"", ""size"": ""up to 10 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""underside of the arms have numerous, tiny tube feet for movement and feeding"" } }","Write in a json format of the marine species Astroceramus fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Monostaechas fisheri,0,fish,"{ ""species_name"": ""Monostaechas fisheri"", ""traits"": { ""color"": ""reddish-brown with lighter or darker stripes"", ""body_shape"": ""long, slender body with a distinctive, pointed proboscis"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 30 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""proboscis is adorned with numerous, small, finger-like appendages"" } }","Write in a json format of the marine species Monostaechas fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Ophiomyxa fisheri,0,fish,"{ ""species_name"": ""Ophiomyxa fisheri"", ""traits"": { ""color"": ""dark brown or black with yellowish or orange highlights"", ""body_shape"": ""elongated, eel-like body with a rounded head and large eyes"", ""habitat"": ""deep-sea environments, typically found in areas with soft sediments"", ""size"": ""up to 20 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""dorsal fin runs along the entire length of the body"" } }","Write in a json format of the marine species Ophiomyxa fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Pseudoanthomastus fisheri,0,fish,"{ ""species_name"": ""Pseudoanthomastus fisheri"", ""traits"": { ""color"": ""reddish-purple with white or yellowish stripes"", ""body_shape"": ""feathery, colonial ascidian with numerous,izzer-like projections"", ""habitat"": ""warm, shallow waters, typically found attached to underwater structures"", ""size"": ""up to 10 centimeters in height"", ""diet"": ""filter feeder, feeds on small invertebrates and plankton"", ""special"": "" colonial structure composed of many individual zooids"" } }","Write in a json format of the marine species Pseudoanthomastus fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Tamu fisheri,0,fish,"{ ""species_name"": ""Tamu fisheri"", ""traits"": { ""color"": ""translucent, colorless"", ""body_shape"": ""elongated, gelatinous body with a spherical umbrella and long, sticky tentacles"", ""habitat"": ""warm, shallow waters, typically found in estuaries or bays"", ""size"": ""up to 3 centimeters in diameter"", ""diet"": ""small invertebrates, plankton"", ""special"": ""bioluminescent, able to emit light"" } }","Write in a json format of the marine species Tamu fisheri with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Letepsammia,2,crab,"{ ""species_name"": ""Letepsammia"", ""traits"": { ""color"": ""pale yellow or cream with brownish spots"", ""body_shape"": ""spherical or ovoid body covered in short, moveable spines"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 10 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""body is highly flexible and can change shape"" } }","Write in a json format of the marine species Letepsammia with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Micrabaciidae,2,crab,"{ ""species_name"": ""Micrabaciidae"", ""traits"": { ""color"": ""dark red to almost black"", ""body_shape"": ""elongated, slender body with feathery, branching appendages"", ""habitat"": ""deep-sea environments, typically found near hydrothermal vents or cold seeps"", ""size"": ""up to 30 centimeters in length"", ""diet"": ""chemosynthesis-based nutrition, utilizing chemicals from the vents or seeps"", ""special"": ""feathery appendages are covered in bacteria, which aid in chemosynthesis"" } }","Write in a json format of the marine species Micrabaciidae with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Rhombopsammia,2,crab,"{ ""species_name"": ""Rhombopsammia"", ""traits"": { ""color"": ""grayish-white with darker stripes or patches"", ""body_shape"": ""heart-shaped or rhomboid body with a distinctive, pointed rostrum"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 8 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""shell is highly ornamented with spines and ridges"" } }","Write in a json format of the marine species Rhombopsammia with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Micrabacia marylandica,2,crab,"{ ""species_name"": ""Micrabacia marylandica"", ""traits"": { ""color"": ""translucent, colorless"", ""body_shape"": ""elongated, slender body with feathery, branching appendages"", ""habitat"": ""deep-sea environments, typically found near hydrothermal vents or cold seeps"", ""size"": ""up to 20 centimeters in length"", ""diet"": ""chemosynthesis-based nutrition, utilizing chemicals from the vents or seeps"", ""special"": ""feathery appendages are covered in bacteria, which aid in chemosynthesis"" } }","Write in a json format of the marine species Micrabacia marylandica with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Crabyzos,2,crab,"{ ""species_name"": ""Crabyzos"", ""traits"": { ""color"": ""dark blue or purple with yellowish or orange highlights"", ""body_shape"": ""elongated, eel-like body with a rounded head and large eyes"", ""habitat"": ""deep-sea environments, typically found in areas with soft sediments"", ""size"": ""up to 40 centimeters in length"", ""diet"": ""small invertebrates, detritus"", ""special"": ""bioluminescent, able to emit light"" } }","Write in a json format of the marine species Crabyzos with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Letepsammia fissilis,2,crab,"{ ""species_name"": ""Letepsammia fissilis"", ""traits"": { ""color"": ""pale yellow or cream with brownish spots"", ""body_shape"": ""spherical or ovoid body covered in short, moveable spines"", ""habitat"": ""deep-sea environments, often found in areas with soft sediments"", ""size"": ""up to 15 centimeters in diameter"", ""diet"": ""small invertebrates, detritus"", ""special"": ""body is highly flexible and can change shape"" } }","Write in a json format of the marine species Letepsammia fissilis with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Stephanophyllia neglecta,2,crab,"{ ""species_name"": ""Stephanophyllia neglecta"", ""traits"": { ""color"": ""orange or yellowish-brown"", ""body_shape"": ""colonial, encrusting or foliaceous structure"", ""habitat"": ""warm, shallow waters, typically found on coral reefs or rocky substrates"", ""size"": ""up to 20 centimeters in diameter"", ""diet"": ""filter feeder, feeds on small invertebrates and plankton"", ""special"": ""polyps are highly specialized for feeding and reproduction"" } }","Write in a json format of the marine species Stephanophyllia neglecta with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Leptopenus,2,crab,"{ ""species_name"": ""Leptopenus"", ""traits"": { ""color"": ""white or translucent"", ""body_shape"": ""elongated, slender body with feathery, branching appendages"", ""habitat"": ""deep-sea environments, typically found near hydrothermal vents or cold seeps"", ""size"": ""up to 30 centimeters in length"", ""diet"": ""chemosynthesis-based nutrition, utilizing chemicals from the vents or seeps"", ""special"": ""feathery appendages are covered in bacteria, which aid in chemosynthesis"" } }","Write in a json format of the marine species Leptopenus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Leptopenus discus,2,crab,"{ ""species_name"": ""Leptopenus discus"", ""traits"": { ""color"": ""white or translucent with reddish-brown highlights"", ""body_shape"": ""flat, disc-shaped body with a short, stout stem and feathery, branching appendages"", ""habitat"": ""deep-sea environments, typically found near hydrothermal vents or cold seeps"", ""size"": ""up to 10 centimeters in diameter"", ""diet"": ""chemosynthesis-based nutrition, utilizing chemicals from the vents or seeps"", ""special"": ""feathery appendages are covered in bacteria, which aid in chemosynthesis"" } }","Write in a json format of the marine species Leptopenus discus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Scopimera crabricauda,2,crab,"{ ""species_name"": ""Scopimera crabricauda"", ""traits"": { ""color"": ""greenish-blue with yellowish or orange highlights"", ""body_shape"": ""elongated, worm-like body with a rounded head and large eyes"", ""habitat"": ""warm, shallow waters, typically found in coral reefs or seaweed beds"", ""size"": ""up to 15 centimeters in length"", ""diet"": ""small invertebrates, such as crustaceans and mollusks"", ""special"": ""has a distinctive, muscular tail used for jumping and burrowing into sediment"" } }","Write in a json format of the marine species Scopimera crabricauda with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Crabyzos longicaudatus,2,crab,"{ ""species"": ""Crabyzos longicaudatus"", ""traits"": { ""color"": ""Greenish-brown"", ""body_shape"": ""Oval"", ""habitat"": ""Marine"", ""size"": ""15-25 cm"", ""diet"": ""Detritivore"", ""special"": ""Its elongated abdomen and flattened body distinguish it from other species."" }}","Write in a json format of the marine species Crabyzos longicaudatus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Letepsammia franki,2,crab,"{ ""species"": ""Letepsammia franki"", ""traits"": { ""color"": ""Reddish-brown"", ""body_shape"": ""Round"", ""habitat"": ""Marine"", ""size"": ""10-18 cm"", ""diet"": ""Filter feeder"", ""special"": ""It has a unique shell shape with intricate patterns."" }} Note: Please note that the information provided about the species Letepsammia franki is fictional, as it does not exist in reality.","Write in a json format of the marine species Letepsammia franki with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Leptopenus hypocoelus,2,crab,"{ ""species"": ""Leptopenus hypocoelus"", ""traits"": { ""color"": ""Pinkish-white"", ""body_shape"": ""Elongated"", ""habitat"": ""Deep-sea"", ""size"": ""8-12 cm"", ""diet"": ""Benthic predator"", ""special"": ""It has a distinctive pair of horn-like protrusions on its head."" }} Note: Please note that the information provided about the species Leptopenus hypocoelus is fictional, as it does not exist in reality.","Write in a json format of the marine species Leptopenus hypocoelus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Stephanophyllia complicata,2,crab,"{ ""species"": ""Stephanophyllia complicata"", ""traits"": { ""color"": ""Brown or greenish-brown"", ""body_shape"": ""Flattened, circular"", ""habitat"": ""Marine"", ""size"": ""Up to 5 cm in diameter"", ""diet"": ""Sessile filter feeder"", ""special"": ""It has intricately arranged, long septa that extend outward from the center of its oral disc."" }} Note: Please note that the information provided about the species Stephanophyllia complicata is fictional, as it does not exist in reality.","Write in a json format of the marine species Stephanophyllia complicata with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Leptopenus antarcticus,2,crab,"{ ""species"": ""Leptopenus antarcticus"", ""traits"": { ""color"": ""Translucent white"", ""body_shape"": ""Slimy and elongated"", ""habitat"": ""Antarctic waters"", ""size"": ""Up to 10 cm in length"", ""diet"": ""Detritivorous"", ""special"": ""It can survive in extremely low temperatures."" }} Note: Please note that the information provided about the species Leptopenus antarcticus is fictional, as it does not exist in reality.","Write in a json format of the marine species Leptopenus antarcticus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Micrabacia rotatilis,2,crab,"{ ""species"": ""Micrabacia rotatilis"", ""traits"": { ""color"": ""Vibrant orange with black stripes"", ""body_shape"": ""Rounded and inflated"", ""habitat"": ""Subtidal marine environments"", ""size"": ""Up to 15 cm in height"", ""diet"": ""Suspension feeder"", ""special"": ""It has a unique rotational movement pattern."" }","Write in a json format of the marine species Micrabacia rotatilis with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Letepsammia superstes,2,crab,"{ ""species"": ""Letepsammia superstes"", ""traits"": { ""color"": ""Deep blue or purple"", ""body_shape"": ""Triangular with scalloped edges"", ""habitat"": ""Deep-sea benthic"", ""size"": ""Up to 20 cm in length"", ""diet"": ""Deposit feeder"", ""special"": ""It has long, slender appendages that it uses to capture food particles from the surrounding sediment."" }} ","Write in a json format of the marine species Letepsammia superstes with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Stephanophyllia,2,crab,"{ ""species"": ""Stephanophyllia"", ""traits"": { ""color"": ""Yellowish-brown"", ""body_shape"": ""Flattened, circular"", ""habitat"": ""Marine"", ""size"": ""Up to 10 cm in diameter"", ""diet"": ""Sessile filter feeder"", ""special"": ""It has a distinctive appearance with radiating, plate-like septa that extend outward from the center of its oral disc."" }}","Write in a json format of the marine species Stephanophyllia with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Rhombopsammia niphada,2,crab,"{ ""species"": ""Rhombopsammia niphada"", ""traits"": { ""color"": ""Creamy white with pink highlights"", ""body_shape"": ""Oval"", ""habitat"": ""Deep-sea"", ""size"": ""Up to 5 cm in length"", ""diet"": ""Deposit feeder"", ""special"": ""It has a unique rhomboid shape when viewed from above, with intricate patterns on its shell."" }} ","Write in a json format of the marine species Rhombopsammia niphada with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Stephanophyllia fungulus,2,crab,"{ ""species"": ""Stephanophyllia fungulus"", ""traits"": { ""color"": ""Light brown with darker stripes"", ""body_shape"": ""Mushroom-shaped"", ""habitat"": ""Shallow marine waters"", ""size"": ""Up to 15 cm in height"", ""diet"": ""Filter feeder"", ""special"": ""It has a unique fungus-like appearance with a flat, disk-like cap and a slender stalk."" }} ","Write in a json format of the marine species Stephanophyllia fungulus with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Rhombopsammia squiresi,2,crab,"{ ""species"": ""Rhombopsammia squiresi"", ""traits"": { ""color"": ""Creamy white with orange highlights"", ""body_shape"": ""Triangular with rounded edges"", ""habitat"": ""Deep-sea benthic"", ""size"": ""Up to 8 cm in length"", ""diet"": ""Deposit feeder"", ""special"": ""It has a unique pattern of small, raised knobs on its shell that reflect light."" }} ","Write in a json format of the marine species Rhombopsammia squiresi with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Aurelia aurita (Moon Jellyfish),4,jellyfish,"{ ""species"": ""Aurelia aurita"", ""traits"": { ""color"": ""Transparent with a whitish or yellowish tint"", ""body_shape"": ""Bell-shaped"", ""habitat"": ""Marine"", ""size"": ""Up to 40 cm in diameter"", ""diet"": ""Carnivorous, feeding on zooplankton and small fish"", ""special"": ""It has stinging tentacles and a distinctive moon-like shape."" }}","Write in a json format of the marine species Aurelia aurita (Moon Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Stomolophus meleagris (Cannonball Jellyfish),4,jellyfish,"{ ""species"": ""Stomolophus meleagris"", ""traits"": { ""color"": ""Brownish to tan"", ""body_shape"": ""Rounded and dome-shaped"", ""habitat"": ""Marine"", ""size"": ""Up to 30 cm in diameter and 20 cm in height"", ""diet"": ""Carnivorous, feeding on small fish and zooplankton"", ""special"": ""It has a hard, rounded bell with a short, frilly rim and a mass of oral arms that are fused at the base."" }}","Write in a json format of the marine species Stomolophus meleagris (Cannonball Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Olindias formosa (Flower Hat Jellyfish),4,jellyfish,"{ ""species"": ""Olindias formosa"", ""traits"": { ""color"": ""Translucent with orange or yellow bell rim and radial stripes"", ""body_shape"": ""Transparent, flat-topped, and vase-shaped"", ""habitat"": ""Marine"", ""size"": ""Up to 30 cm in diameter"", ""diet"": ""Carnivorous, feeding on small fish, plankton, and brine shrimp"", ""special"": ""It has a distinctive appearance with a translucent bell and vibrant orange or yellow stripes radiating from the center."" }}","Write in a json format of the marine species Olindias formosa (Flower Hat Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Mastigias papua (Fire Jellyfish),4,jellyfish,"{ ""species"": ""Mastigias papua"", ""traits"": { ""color"": ""Translucent with a bright orange-red bell rim"", ""body_shape"": ""Transparent, umbrella-shaped with a flat top"", ""habitat"": ""Marine, typically found in tropical waters"", ""size"": ""Up to 25 cm in diameter"", ""diet"": ""Carnivorous, feeding on small fish, brine shrimp, and plankton"", ""special"": ""It has a distinctive orange-red bell rim and a unique ability to bioluminesce, emitting a bright greenish light when disturbed."" }}","Write in a json format of the marine species Mastigias papua (Fire Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Cyanea capillata (Lion's Mane Jellyfish),4,jellyfish,"{ ""species"": ""Cyanea capillata"", ""traits"": { ""color"": ""Translucent or reddish-brown"", ""body_shape"": ""Bell-shaped with a mass of tentacles and a frilly, scalloped rim"", ""habitat"": ""Marine"", ""size"": ""Up to 3 meters in diameter"", ""diet"": ""Carnivorous, feeding on fish, plankton, and small invertebrates"", ""special"": ""It is one of the largest jellyfish in the world, known for its massive size and intricate network of long, thin tentacles."" }}","Write in a json format of the marine species Cyanea capillata (Lion's Mane Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Chrysaora quinquecirrha (Sea Nettle),4,jellyfish," { ""species"": ""Chrysaora quinquecirrha"", ""traits"": { ""color"": ""Translucent with a reddish-brown bell and tentacles"", ""body_shape"": ""Bell-shaped with long, thin tentacles"", ""habitat"": ""Marine"", ""size"": ""Up to 30 cm in diameter"", ""diet"": ""Carnivorous, feeding on small fish, shrimp, and plankton"", ""special"": ""It is known for its painful sting and is commonly found in shallow waters of warm coastal areas."" }}. ","Write in a json format of the marine species Chrysaora quinquecirrha (Sea Nettle) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Box Jellyfish (Cubozoa),4,jellyfish,"{ ""species"": ""Box Jellyfish"", ""traits"": { ""color"": ""Transparent or pale blue"", ""body_shape"": ""Cuboid or box-like with a flat, bell-shaped body"", ""habitat"": ""Marine, typically found in shallow coastal waters"", ""size"": ""Up to 20 cm in length"", ""diet"": ""Carnivorous, feeding on small fish, crustaceans, and mollusks"", ""special"": ""It is known for its powerful venom and distinctive box-like shape."" }}","Write in a json format of the marine species Box Jellyfish (Cubozoa) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Turritopsis dohrnii (Immortal Jellyfish),4,jellyfish,"{ ""species"": ""Turritopsis dohrnii"", ""traits"": { ""color"": ""Translucent"", ""body_shape"": ""Bell-shaped with a frilly rim and long, thin tentacles"", ""habitat"": ""Marine, typically found in warm and temperate waters"", ""size"": ""Up to 5 mm in diameter"", ""diet"": ""Carnivorous, feeding on small fish, plankton, and other tiny organisms"", ""special"": ""It is known for its ability to transform its adult form back into its polyp stage, effectively making it 'immortal'."" }}","Write in a json format of the marine species Turritopsis dohrnii (Immortal Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Cassiopea (Upside-down Jellyfish),4,jellyfish,"{
+    ""species"": ""Cassiopea"",
+    ""traits"": {
+        ""color"": ""Transparent"",
+        ""body_shape"": ""Bell-shaped"",
+        ""habitat"": ""Shallow waters"",
+        ""size"": ""Up to 30 cm"",
+        ""diet"": ""Small fish, plankton"",
+        ""special"": ""Rests upside-down on the seafloor""
+    }
+}","Write in a json format of the marine species Cassiopea (Upside-down Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Chironex fleckeri (Australian Box Jellyfish),4,jellyfish,"{
+  ""species"": ""Chironex fleckeri"",
+  ""traits"": {
+    ""color"": ""Transparent"",
+    ""body_shape"": ""Box-like"",
+    ""habitat"": ""Coastal waters"",
+    ""size"": ""Up to 20 cm"",
+    ""diet"": ""Small fish, prawns, plankton"",
+    ""special"": ""Has one of the most potent venoms in the animal kingdom""
+  }
+}","Write in a json format of the marine species Chironex fleckeri (Australian Box Jellyfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Asterias rubens (Common Starfish),5,Starfish,"{
+    ""species"": ""Asterias rubens"",
+    ""common_name"": ""Common Starfish"",
+    ""traits"": {
+        ""color"": ""Orange to brown"",
+        ""body_shape"": ""Star-shaped"",
+        ""habitat"": ""Rocky shores and estuaries"",
+        ""size"": ""Up to 52 cm in diameter"",
+        ""diet"": ""Predator, feeds on mussels and other shellfish"",
+        ""special"": ""Regenerates lost arms""
+    }
+}","Write in a json format of the marine species Asterias rubens (Common Starfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Pisaster ochraceus (Ochre Sea Star),5,Starfish,"{
+    ""Pisaster ochraceus"": {
+        ""Color"": ""Color varies from orange to brown"",
+        ""Shape"": ""Five-armed starfish"",
+        ""Habitat"": ""Rocky shores and tide pools"",
+        ""Size"": ""Up to 25 cm in diameter"",
+        ""Diet"": ""Mussels and other shellfish"",
+        ""Notable feature"": ""Keystone species""
+    }
+}","Write in a json format of the marine species Pisaster ochraceus (Ochre Sea Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Patiria miniata (Bat Star),5,Starfish,"{
+    ""Patiria miniata (Bat Star)"": {
+        ""Color"": ""The color of Patiria miniata can vary, but it is most commonly found in shades of orange, red, and yellow."",
+        ""Shape"": ""Patiria miniata has a distinctive star-shaped body with five arms that are relatively short and broad."",
+        ""Habitat"": ""Patiria miniata is typically found in shallow waters, ranging from the intertidal zone to depths of about 200 meters."",
+        ""Size"": ""The average size of Patiria miniata is approximately 10-15 centimeters in diameter, although some individuals may grow larger."",
+        ""Diet"": ""Patiria miniata is a predator that feeds on a variety of prey, including mussels, clams, and other invertebrates."",
+        ""Notable feature"": ""One notable feature of Patiria miniata is its ability to autotomize, or detach, one of its arms as a defense mechanism. This detached arm can continue to move and distract predators, allowing the starfish to escape.""
+    }
+}","Write in a json format of the marine species Patiria miniata (Bat Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Linckia laevigata (Blue Starfish),5,Starfish,"{
+    ""species"": ""Linckia laevigata"",
+    ""traits"": {
+        ""color"": ""Blue"",
+        ""body_shape"": ""Starfish"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Medium"",
+        ""diet"": ""Detritivore"",
+        ""special"": ""Regeneration""
+    }
+}","Write in a json format of the marine species Linckia laevigata (Blue Starfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Echinaster sepositus (Mediterranean Red Sea Star),5,Starfish,"{
+    ""species"": ""Echinaster sepositus"",
+    ""traits"": {
+        ""color"": ""Reddish-brown"",
+        ""body_shape"": ""Star-shaped"",
+        ""habitat"": ""Rocky shores"",
+        ""size"": ""Up to 20 cm in diameter"",
+        ""diet"": ""Detritivore"",
+        ""special"": ""Regenerates arms""
+    }
+}","Write in a json format of the marine species Echinaster sepositus (Mediterranean Red Sea Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Acanthaster planci (Crown-of-Thorns Starfish),5,Starfish,"{
+    ""species"": ""Acanthaster planci"",
+    ""traits"": {
+        ""color"": ""Multi-colored"",
+        ""body_shape"": ""Star-shaped"",
+        ""habitat"": ""Coral reefs"",
+        ""size"": ""Up to 40 cm in diameter"",
+        ""diet"": ""Coral polyps"",
+        ""special"": ""Has venomous spines""
+    }
+}","Write in a json format of the marine species Acanthaster planci (Crown-of-Thorns Starfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Astropecten articulatus (Striped Sea Star),5,Starfish,"{
+    ""name"": ""Astropecten articulatus"",
+    ""common_name"": ""Striped Sea Star"",
+    ""traits"": {
+        ""color"": ""Brown with white or yellow stripes"",
+        ""body_shape"": ""Star-shaped"",
+        ""habitat"": ""Sand, mud, or rocky areas"",
+        ""size"": ""Up to 12 inches (30 cm) in diameter"",
+        ""diet"": ""Clams, mussels, and other shellfish"",
+        ""special"": ""Can regrow lost arms""
+    }
+}","Write in a json format of the marine species Astropecten articulatus (Striped Sea Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Luidia clathrata (Lined Sea Star),5,Starfish,"{
+    ""name"": ""Astropecten articulatus"",
+    ""common_name"": ""Striped Sea Star"",
+    ""traits"": {
+        ""color"": ""Brown with white or yellow stripes"",
+        ""body_shape"": ""Star-shaped"",
+        ""habitat"": ""Sand, mud, or rocky areas"",
+        ""size"": ""Up to 12 inches (30 cm) in diameter"",
+        ""diet"": ""Clams, mussels, and other shellfish"",
+        ""special"": ""Can regrow lost arms""
+    }
+}","Write in a json format of the marine species Luidia clathrata (Lined Sea Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Marthasterias glacialis (Spiny Starfish),5,Starfish,"{
+    ""Marthasterias glacialis (Spiny Starfish)"": {
+        ""Color"": ""The Spiny Starfish has a brown or reddish-brown color with white or yellowish spots."",
+        ""Shape"": ""The Spiny Starfish has a distinctive pentagonal or stellate body shape with long, slender arms."",
+        ""Habitat"": ""The Spiny Starfish is found in the Atlantic Ocean, specifically in the north-eastern part, and in the Mediterranean Sea."",
+        ""Size"": ""The Spiny Starfish can grow up to a maximum diameter of 30 cm (12 in)."",
+        ""Diet"": ""The Spiny Starfish is a predator that feeds on mussels, clams, and other bivalve mollusks."",
+        ""Notable feature"": ""One of the notable features of the Spiny Starfish is the presence of spines on its body, which gives it its name.""
+    }
+}","Write in a json format of the marine species Marthasterias glacialis (Spiny Starfish) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Henricia leviuscula (Blood Star),5,Starfish,"{
+    ""name"": ""Henricia leviuscula"",
+    ""common_name"": ""Blood Star"",
+    ""traits"": {
+        ""color"": ""Reddish brown"",
+        ""body_shape"": ""Pentagonal"",
+        ""habitat"": ""Rocky shores"",
+        ""size"": ""Up to 10 cm in diameter"",
+        ""diet"": ""Detritivore"",
+        ""special"": ""Regeneration of arms""
+    }
+}","Write in a json format of the marine species Henricia leviuscula (Blood Star) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Penaeus indicus (White Prawn),3,Shrimp,"{
+    ""species"": ""Penaeus indicus"",
+    ""common_name"": ""White Prawn"",
+    ""traits"": {
+        ""color"": ""Translucent with a greenish-blue back"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Up to 18 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Has a distinctive hump on the back of the head""
+    }
+}","Write in a json format of the marine species Penaeus indicus (White Prawn) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Penaeus monodon (Tiger Prawn),3,Shrimp,"{
+    ""species"": ""Penaeus monodon"",
+    ""traits"": {
+        ""color"": ""Brownish grey with white stripes"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Up to 33 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Distinctive black stripes on the body""
+    }
+}","Write in a json format of the marine species Penaeus monodon (Tiger Prawn) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Penaeus semisulcatus (Flower Prawn),3,Shrimp,"{
+    ""species"": ""Penaeus semisulcatus"",    ""traits"":
+        ""color"": ""Brownish grey with white stripes"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Up to 22 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Has a distinctive hump on the back of its head""
+    }
+}","Write in a json format of the marine species Penaeus semisulcatus (Flower Prawn) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Metapenaeus dobsoni (Pink Shrimp),3,Shrimp,"{
+    ""species"": ""Metapenaeus dobsoni"",    ""traits"": {
+        ""color"": ""Pink"",
+        ""body_shape"": ""Long and slender"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Up to 15 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Has a distinctive hump on its back""
+    }
+}","Write in a json format of the marine species Metapenaeus dobsoni (Pink Shrimp) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Metapenaeus monoceros (Brown Shrimp),3,Shrimp,"{
+    ""species"": ""Metapenaeus monoceros"",    ""traits"": {
+        ""color"": ""Brown"",
+        ""body_shape"": ""Long and slender"",
+        ""habitat"": ""Estuaries and shallow coastal waters"",
+        ""size"": ""Up to 15 cm"",
+        ""diet"": ""Small fish, plankton, and detritus"",
+        ""special"": ""Has a distinctive hump on its back""
+    }
+}","Write in a json format of the marine species Metapenaeus monoceros (Brown Shrimp) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Metapenaeus affinis (King Prawn),3,Shrimp,"{
+    ""species"": ""Metapenaeus affinis"",    ""traits"": {
+        ""color"": ""Brownish-grey"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Marine"",
+        ""size"": ""Up to 25 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Large size and high commercial value""
+    }
+}","Write in a json format of the marine species Metapenaeus affinis (King Prawn) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Parapenaeopsis stylifera (Marine Shrimp),3,Shrimp,"{
+    ""species"": ""Parapenaeopsis stylifera"",
+    ""traits"": {
+        ""color"": ""Transparent with red spots"",
+        ""body_shape"": ""Long and slender"",
+        ""habitat"": ""Deep waters of the Atlantic and Indo-Pacific oceans"",
+        ""size"": ""Up to 15 cm in length"",
+        ""diet"": ""Small fish, plankton, and detritus"",
+        ""special"": ""Bioluminescent, can produce light""
+    }
+}","Write in a json format of the marine species Parapenaeopsis stylifera (Marine Shrimp) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Acetes indicus (Jawala),3,Shrimp,"{
+    ""species"": ""Macrobrachium rosenbergii"",
+    ""common_name"": ""Scampi"",
+    ""traits"": {
+        ""color"": ""Brownish-grey"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Freshwater"",
+        ""size"": ""Up to 30 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Large claws""
+    }
+}","Write in a json format of the marine species Acetes indicus (Jawala) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Macrobrachium rosenbergii (Scampi),3,Shrimp,"{
+    ""species"": ""Macrobrachium rosenbergii"",
+    ""traits"": {
+        ""color"": ""Brownish-grey"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Freshwater"",
+        ""size"": ""Up to 30 cm"",
+        ""diet"": ""Omnivorous"",
+        ""special"": ""Large claws""
+    }
+}","Write in a json format of the marine species Macrobrachium rosenbergii (Scampi) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Solenocera sp. (Deep Sea Shrimp),3,Shrimp,"{
+    ""species"": ""Solenocera sp."",
+    ""traits"": {
+        ""color"": ""Reddish-brown"",
+        ""body_shape"": ""Elongated"",
+        ""habitat"": ""Deep sea"",
+        ""size"": ""Up to 20 cm"",
+        ""diet"": ""Detritivore"",
+        ""special"": ""Bioluminescent""
+    }
+}","Write in a json format of the marine species Solenocera sp. (Deep Sea Shrimp) with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Glycymeris shrimptoni,3,shrimp,"{
+    ""species"": ""Glycymeris shrimptoni"",
+    ""traits"": {
+        ""color"": ""Brown"",
+        ""body_shape"": ""Oval"",
+        ""habitat"": ""Deep water"",
+        ""size"": ""Medium"",
+        ""diet"": ""Filter feeder"",
+        ""special"": ""Distinctive shell pattern""
+    }
+}","Write in a json format of the marine species Glycymeris shrimptoni with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"
+Scolanthus shrimp,3,shrimp,"{
+    ""species"": ""Glycymeris shrimptoni"",
+    ""traits"": {
+        ""color"": ""Brown"",
+        ""body_shape"": ""Oval"",
+        ""habitat"": ""Deep water"",
+        ""size"": ""Medium"",
+        ""diet"": ""Filter feeder"",
+        ""special"": ""Distinctive shell pattern""
+    }
+}","Write in a json format of the marine species Scolanthus shrimp with the following traits: Color: {traits['color']}, Shape: {traits['body_shape']}, Habitat: {traits['habitat']}, Size: {traits['size']}, Diet: {traits['diet']}, Notable feature: {traits['special']}"

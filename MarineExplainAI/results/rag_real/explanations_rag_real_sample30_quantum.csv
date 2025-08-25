@@ -1,0 +1,881 @@
+image_path,label,prompt,explanation
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-36-31to2019-02-21_06-36-39_1-0048_jpg.rf.187b1146487ba6b09913961f8e5ed580.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-27-01to2019-03-06_22-27-14_1-0064_jpg.rf.4ee69f22c75b37cc47b2510e3d47c2d2.jpg,fish,"<image>
+USER: The object in the image is predicted to be a **fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: translucent, colorless. Shape: elongated, parasitic worm. Habitat: inside the bodies of fish, typically in the intestines or muscles. Size: up to 5 centimeters in length. Diet: feeds on the host fish's tissues and bodily fluids. Notable feature: thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host.
+- Color: Transparent. Shape: Bell-shaped. Habitat: Shallow waters. Size: Up to 30 cm. Diet: Small fish, plankton. Notable feature: Rests upside-down on the seafloor.
+- Color: Transparent. Shape: Box-like. Habitat: Coastal waters. Size: Up to 20 cm. Diet: Small fish, prawns, plankton. Notable feature: Has one of the most potent venoms in the animal kingdom.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: translucent, colorless. Shape: elongated, parasitic worm. Habitat: inside the bodies of fish, typically in the intestines or muscles. Size: up to 5 centimeters in length. Diet: feeds on the host fish's tissues and bodily fluids. Notable feature: thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host.
+- Color: Transparent. Shape: Bell-shaped. Habitat: Shallow waters. Size: Up to 30 cm. Diet: Small fish, plankton. Notable feature: Rests upside-down on the seafloor.
+- Color: Transparent. Shape: Box-like. Habitat: Coastal waters. Size: Up to 20 cm. Diet: Small fish, prawns, plankton. Notable feature: Has one of the most potent venoms in the animal kingdom.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a transparent, elongated parasitic worm, which is a fish. The key visual features that support this identification include its thin, pointed tail and the presence of hook-like structures for attachment to the host. The typical habitat for this fish is inside the bodies of fish, typically in the intestines or muscles, and it can be found in shallow waters. The ecological role of this fish is to feed on the host fish's tissues and bodily fluids, and it has a notable feature of resting upside-down on the seafloor"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-20_10-50-55to2019-03-20_10-51-03_1-0060_jpg.rf.553b0bdf2eba4a718b2a65e87edf33a2.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a starfish, which is characterized by its blue color, five-armed shape, and distinctive, elongated body. The starfish is found in deep-sea environments, typically near underwater ridges or seamounts, and its diet consists of small invertebrates and detritus. The arms of the starfish are long and slender, with numerous small spines along the sides. These features, along with the image, support the identification of the object as a starfish."
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-26_00-44-33to2019-02-26_00-44-47_1-0071_jpg.rf.786f8d3eb0c5802fb8f8bcc79dd5596f.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-20_23-54-24to2019-03-20_23-54-35_1-0116_jpg.rf.ce8b230f7d78e30adb39d43f97922d4d.jpg,fish,"<image>
+USER: The object in the image is predicted to be a **fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: translucent, colorless. Shape: elongated, parasitic worm. Habitat: inside the bodies of fish, typically in the intestines or muscles. Size: up to 5 centimeters in length. Diet: feeds on the host fish's tissues and bodily fluids. Notable feature: thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host.
+- Color: Transparent. Shape: Bell-shaped. Habitat: Shallow waters. Size: Up to 30 cm. Diet: Small fish, plankton. Notable feature: Rests upside-down on the seafloor.
+- Color: Transparent. Shape: Box-like. Habitat: Coastal waters. Size: Up to 20 cm. Diet: Small fish, prawns, plankton. Notable feature: Has one of the most potent venoms in the animal kingdom.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: translucent, colorless. Shape: elongated, parasitic worm. Habitat: inside the bodies of fish, typically in the intestines or muscles. Size: up to 5 centimeters in length. Diet: feeds on the host fish's tissues and bodily fluids. Notable feature: thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host.
+- Color: Transparent. Shape: Bell-shaped. Habitat: Shallow waters. Size: Up to 30 cm. Diet: Small fish, plankton. Notable feature: Rests upside-down on the seafloor.
+- Color: Transparent. Shape: Box-like. Habitat: Coastal waters. Size: Up to 20 cm. Diet: Small fish, prawns, plankton. Notable feature: Has one of the most potent venoms in the animal kingdom.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a transparent, elongated parasitic worm, which is a fish. The key visual features that support this identification include its thin, pointed tail and a pair of muscular, hook-like structures for attachment to the host. The typical habitat for this fish is inside the bodies of fish, typically in the intestines or muscles, and it can be found in shallow waters. The ecological role of this fish is to feed on the host fish's tissues and bodily fluids, and its feeding behavior involves resting upside-down on the se"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-32-01to2019-02-22_22-32-15_1-0116_jpg.rf.d64dd877b6443d5286e35e518f658d1e.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-52-16to2019-02-21_06-52-34_1-0063_jpg.rf.b5c58515c9f2d553a62f15e313c49252.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-56-08to2019-02-21_06-56-28_1-0095_jpg.rf.7e1a4392fe228bd654b6112f8860c03d.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, likely a species of the genus **Pseudophycus**. Key visual features supporting this identification include the fish's reddish-brown color, pentagonal shape, and inflated body. The fish's habitat is typically deep-sea environments, often found on muddy or clay substrates. These fish are small, measuring up to 15 centimeters in diameter, and have a diet consisting of small invertebrates, such as crustaceans. They have large, spherical eyes and five short, broad"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_19-56-16to2019-03-19_19-56-24_1-0022_jpg.rf.f43e54f2ed050d6e6cd3c40ec0f926a0.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a starfish, which is characterized by its blue color, five-armed shape, and elongated body. The starfish is found in deep-sea environments, typically near underwater ridges or seamounts, and its diet consists of small invertebrates and detritus. The arms of the starfish are long and slender with numerous small spines along the sides, and the underside of the arms has numerous tiny tube feet for movement and feeding. These distinctive traits support the identification of the object as a starfish."
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_17-07-53to2019-03-19_17-08-34_1-0093_jpg.rf.fc136b6fa40bbb6b0bcb6c8c2ffd8877.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a small fish, specifically a species of the genus Stylophora. Key visual features that support this identification include the reddish-brown color, pentagonal shape, inflated body, and large, spherical eyes. The typical habitat for this species is deep-sea environments, often found on muddy or clay substrates. The ecological role of this fish is to feed on small invertebrates, such as crustaceans and mollusks, and it plays a crucial part in maintaining the balance of the marine e"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-22-16to2019-02-22_22-22-27_1-0143_jpg.rf.74529b76b011ec30dc3493f6d231774e.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-07_08-57-30to2019-03-07_08-57-40_1-0110_jpg.rf.395c3f5822fb1d9b3a69b6579c276887.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The key visual features that support the identification of the object in the image as a starfish include its distinctive, elongated body shape, five-armed structure, and the presence of small spines along the sides. These characteristics are consistent with the biological facts and ecological context provided for the species.
+
+The typical habitat of a starfish is deep-sea environments, such as near underwater ridges or seamounts, or warm, shallow waters, like coral reefs or rocky areas. The presence of these features in the image supports the identification of the object as a star"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_23-28-21to2019-02-22_23-28-34_1-0051_jpg.rf.1d89d1a2755f26f3bc5499c6ee6e74f9.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-52-16to2019-02-21_06-52-34_1-0266_jpg.rf.d68e31f066776cd0f6a25558efdef68f.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, likely belonging to the genus Diadumene, which is characterized by its reddish-brown color, pentagonal inflated body, and large, spherical eyes. The fish is found in deep-sea environments, typically on muddy or clay substrates, and can grow up to 15 centimeters in diameter. Its diet mainly consists of small invertebrates, such as crustaceans.
+
+The key visual features that support this identification include the fish's reddish-brown color, pentagonal"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_11-42-56to2019-03-19_11-43-14_1-0146_jpg.rf.07bc7cd9c1911d17eecf5c8563973ff4.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_17-01-06to2019-03-19_17-01-19_1-0097_jpg.rf.d417dfaceaa5080818ea09c20f5af90b.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a small fish, specifically a species of the genus Diadumene. These fish are characterized by their pentagonal, inflated body shape, reddish-brown color, and large, spherical eyes. They typically inhabit deep-sea environments, often found on muddy or clay substrates. Their diet consists of small invertebrates, such as crustaceans, and they have a unique feeding behavior that involves using their arms to grasp and manipulate their prey.
+
+Their movement is typically slow and deliberate, allowing"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_23-28-21to2019-02-22_23-28-34_1-0136_jpg.rf.65b4c62a7ce2a1094f4a291db550ec19.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-11-06to2019-03-06_22-11-17_1-0096_jpg.rf.88791d14b917ab941e161a20ecd0b98c.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-21-31to2019-02-22_22-21-44_1-0124_jpg.rf.53b8f569e534988c971f6094974486e6.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-50-54to2019-02-21_06-51-01_1-0010_jpg.rf.52186c775f91aeb3db746fe0822cd9f0.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, likely belonging to the genus Diadumene, which is characterized by its reddish-brown color, pentagonal inflated body, and large, spherical eyes. The fish is found in deep-sea environments, typically on muddy or clay substrates, and can grow up to 15 centimeters in diameter. Its diet mainly consists of small invertebrates, such as crustaceans.
+
+The key visual features that support this identification include the fish's reddish-brown color, pentagonal"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-01-00to2019-03-06_22-01-09_1-0078_jpg.rf.d9621be65ced38eb282a772defbec720.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-16-56to2019-03-06_22-17-10_1-0053_jpg.rf.d6158ba1cbc5e085babc9ae152a8eb7d.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and large, spherical eyes. The typical habitat and environment for this species are deep-sea environments, often found on muddy or clay substrates. Crabs play an essential ecological role by feeding on small invertebrates, such as crustaceans and mollusks, and contributing to the overall balance of the marine ecosystem. Their movement and behavior are characterized by their long, slender"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_13-33-15to2019-03-19_13-33-25_1-0138_jpg.rf.883c4089e3dfbc7af811ca19e36abd25.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. These characteristics are consistent with the appearance of various crab species.
+
+Crabs typically inhabit deep-sea environments, such as muddy or clay substrates, and are found in areas with soft sediments. They can be found in a range of sizes, from small individuals to larger ones, depending on the species. Crabs are omnivorous, feeding on small invertebrates,"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_18-01-56to2019-03-19_18-02-13_1-0165_jpg.rf.620eaab05de404053a3f62c1f9041748.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a starfish, which is characterized by its blue color, five-armed shape, and distinctive, elongated body. The starfish is found in deep-sea environments, typically near underwater ridges or seamounts, and its diet consists of small invertebrates and detritus. The arms of the starfish are long and slender, with numerous small spines along the sides. These features, along with the image, support the identification of the object as a starfish."
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-20_20-08-39to2019-03-20_20-08-48_1-0026_jpg.rf.7ac0741a3928579fc6595deae8778f9f.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a starfish, which is characterized by its blue color, five-armed shape, and distinctive, elongated body. The starfish is found in deep-sea environments, typically near underwater ridges or seamounts, and its diet consists of small invertebrates and detritus. The arms of the starfish are long and slender, with numerous small spines along the sides. These features, along with the image, support the identification of the object as a starfish."
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-21_05-01-24to2019-03-21_05-01-31_1-0102_jpg.rf.93256690ed8bf452f08d42332e30ed83.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is identified as a crab, specifically a deep-sea crab. The key visual features supporting this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_13-33-15to2019-03-19_13-33-25_1-0136_jpg.rf.efdbe75e896efa29ed9d9c888256b864.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat and environment for this species are deep-sea environments, often found on muddy or clay substrates. Crabs play an essential ecological role by feeding on small invertebrates, such as crustaceans and mollusks, and contributing to the overall balance of the marine ecosystem. Their movement and behavior are characterized by their long, slender arms with"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-22-06to2019-02-22_22-22-14_1-0039_jpg.rf.84b788d23a0f5233507ae235fc22bf99.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-50-24to2019-02-21_06-50-40_1-0115_jpg.rf.3891fb39c9ef38414102012883d35c18.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+- Color: Blue. Shape: Starfish. Habitat: Marine. Size: Medium. Diet: Detritivore. Notable feature: Regeneration.
+- Color: dark brown or black with whitish spots. Shape: five-armed starfish with a distinctive, elongated body shape. Habitat: deep-sea environments, typically found near underwater ridges or seamounts. Size: up to 15 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: arms are long and slender with numerous, small spines along the sides.
+- Color: pale yellow or cream with darker spots. Shape: starfish with a distinctive, cup-shaped body and five short arms. Habitat: warm, shallow waters, typically found in coral reefs or rocky areas. Size: up to 10 centimeters in diameter. Diet: small invertebrates, detritus. Notable feature: underside of the arms have numerous, tiny tube feet for movement and feeding.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a blue starfish with a distinctive, elongated body shape, which supports the identification as a starfish. Starfish are typically found in deep-sea environments, near underwater ridges or seamounts, or in warm, shallow waters, such as coral reefs or rocky areas. They have a diet consisting of small invertebrates and detritus, and their arms are long and slender with numerous, small spines along the sides. The underside of the arms has numerous, tiny tube feet for movement and feeding. The presence of these key"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-19-45to2019-02-22_22-19-53_1-0041_jpg.rf.a41c70a28cd8685bc89562e67ecce436.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+- Color: reddish-brown. Shape: pentagonal, inflated body. Habitat: deep-sea environments. Size: up to 15 centimeters in diameter. Diet: small invertebrates, such as crustaceans. Notable feature: large, spherical eyes and five short, broad-based arms.
+- Color: pale brown with darker brown or reddish-brown markings. Shape: heart-shaped body. Habitat: deep-sea environments, typically on muddy or clay substrates. Size: up to 7 centimeters in length. Diet: small invertebrates, organic detritus. Notable feature: prominent, tooth-like spines on its arms.
+- Color: reddish-brown to dark brown. Shape: pentagonal, slightly curved body. Habitat: deep-sea environments, often found in areas with soft sediments. Size: up to 10 centimeters in diameter. Diet: small invertebrates, such as crustaceans and mollusks. Notable feature: long, slender arms with numerous small, moveable spines.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, specifically a deep-sea crab. The key visual features that support this identification include the reddish-brown color, pentagonal shape, and inflated body. The typical habitat for deep-sea crabs is deep-sea environments, often found on muddy or clay substrates. They play an ecological role as scavengers, feeding on small invertebrates, such as crustaceans and mollusks. Their movement is typically slow and deliberate, using their long, slender arms with numerous small"

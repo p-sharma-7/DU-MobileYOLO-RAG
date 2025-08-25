@@ -1,0 +1,903 @@
+image_path,label,prompt,explanation
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-04-39to2019-03-06_22-04-49_1-0141_jpg.rf.977155ffb8f221803ff9589a825fcff7.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a crab, as it has a thick exoskeleton, which is a key visual feature that supports this identification. Crabs are commonly found in shallow ocean waters, often near rocky crevices or coral reefs, which is consistent with the environment depicted in the image.
+
+Crabs play an essential role in their ecosystems as both predators and prey. They are omnivorous, feeding on a variety of organisms such as algae, small invertebrates, and even other crabs. Their movement"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_17-02-30to2019-03-19_17-02-42_1-0124_jpg.rf.c867f798010d21501d9e9887057f10eb.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a common sight in shallow ocean waters, often near rocky crevices or coral reefs. Key visual features that support this identification include the fish's body shape, size, and coloration. The fish's presence in the water and its interaction with the environment, such as feeding on small organisms or moving through the water, also contribute to its classification as a small fish. The fish's ecological role is to serve as a food source for larger predators, such as birds or marine mammals, and to maintain the"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-21-31to2019-02-22_22-21-44_1-0199_jpg.rf.da4ba029e2704648bc137fba65fc1ec5.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny body covered with plates. Crabs, on the other hand, are crustaceans with a thick exoskeleton and are commonly found in shallow ocean waters,"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-56-08to2019-02-21_06-56-28_1-0301_jpg.rf.4149b7dfd2f30bdb7609f659898572e3.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates, such as mollusks and crustaceans. They have a strong sense of smell and are able to move quickly"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-56-08to2019-02-21_06-56-28_1-0280_jpg.rf.8de330e21532822fbaafa99fa54b1265.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine invertebrate with a distinctive star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which are the primary characteristics of a starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny skin covered with small plates. The habitat of a starfish includes rocky crevices, coral reefs, and other hard surfaces where"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_18-01-56to2019-03-19_18-02-13_1-0202_jpg.rf.66e9821787ef4a95c89936b22543b1a6.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic feature of crabs. Crabs are commonly found in shallow ocean waters, often near rocky crevices or coral reefs. They play an essential role in the ecosystem as both predators and prey. Crabs are known for their agility and ability to move quickly, which helps them escape from predators and catch their prey. They have a diverse diet, feeding on a"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-27-01to2019-03-06_22-27-14_1-0104_jpg.rf.1241052abff2a578746639761e56f596.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, as it has a thick exoskeleton and is found in shallow ocean waters near rocky crevices or coral reefs. Key visual features supporting this identification include the crab's body shape, which is typically star-shaped, and its presence in the water, which is a common habitat for crabs. Crabs are known for their feeding behavior, which involves scavenging for food or catching prey, and they have a unique movement pattern, using their pincers to move around. The presence of a crab"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-50-24to2019-02-21_06-50-40_1-0070_jpg.rf.62528df3cac978a00aea3800b2ab823d.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny skin. Crabs, on the other hand, are crustaceans with a thick exoskeleton and are commonly found in shallow ocean waters, often near rocky"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_18-01-56to2019-03-19_18-02-13_1-0170_jpg.rf.15edceceb6609db46d1135450e0cf4c2.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates, such as mollusks and crustaceans. They have a strong sense of smell and are able to move quickly"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-21-06to2019-02-22_22-21-16_1-0056_jpg.rf.f70595efcc64d4f492369eeb2307ca90.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish. Starfish are commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+
+Typical habitats for starfish include rocky crevices, coral reefs, and shallow ocean waters. They are predatory animals, feeding on small invertebrates such as crabs and sea anemones. Starfish"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_18-01-56to2019-03-19_18-02-13_1-0101_jpg.rf.eaaf0e6a78ad30f36b4e7b41f6f00591.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates such as mollusks, crustaceans, and other crabs. They have a strong sense of smell and"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-16-56to2019-03-06_22-17-10_1-0017_jpg.rf.62a33f2edb0b0b44424791fa44ac2734.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a crab. Key visual features supporting this identification include the crab's distinctive shape, with a thick exoskeleton and a body that is typically found in shallow ocean waters. Crabs are commonly found near rocky crevices or coral reefs, which is consistent with the environment depicted in the image.
+
+Crabs play an essential role in their ecosystems, as they are both predators and prey. They feed on a variety of organisms, including other crustaceans, mollusks, and small fish"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_17-07-53to2019-03-19_17-08-34_1-0176_jpg.rf.57eb98a09d076ecc719b41d7b9f0b0ad.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is predicted to be a small fish. Key visual features that support this identification include the presence of fins and a body shape that is typical of fish. The fish is found in shallow ocean waters, often near rocky crevices or coral reefs, which is consistent with the typical habitat and environment of crabs.
+
+Crabs are crustaceans with a thick exoskeleton and are known for their ability to move quickly and efficiently. They have a feeding behavior that involves scavenging for food, such as small invertebrates, algae,"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-32-01to2019-02-22_22-32-15_1-0090_jpg.rf.41226ebb75b9e47a05e62ce61dbf5016.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, as it has a thick exoskeleton and is found in shallow ocean waters near rocky crevices or coral reefs. Key visual features that support this identification include the crab's body shape, which is typically star-shaped, and its presence in the ocean environment. Crabs are known for their agility and ability to move quickly, which allows them to escape from predators and find food. They are also known for their diverse diet, which includes both plants and animals. In summary, the crab's thick exoske"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-26_00-44-33to2019-02-26_00-44-47_1-0071_jpg.rf.786f8d3eb0c5802fb8f8bcc79dd5596f.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny body covered with plates. Crabs, on the other hand, are crustaceans with a thick exoskeleton and are commonly found in shallow ocean waters,"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-27-01to2019-03-06_22-27-14_1-0056_jpg.rf.51a6181b133088f008b8d01fc3b9bc75.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, as it has a thick exoskeleton and is found in shallow ocean waters near rocky crevices or coral reefs. Key visual features supporting this identification include the crab's body shape, size, and the presence of a hard shell. The crab's habitat and environment are typically found in shallow waters, where it can easily access its food sources and avoid predators. Crabs are omnivorous, feeding on a variety of organisms such as algae, small invertebrates, and even other crabs"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_19-56-16to2019-03-19_19-56-24_1-0051_jpg.rf.ece5227ca16b242457e1b3c71fc2b5ba.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a crab, as it has a thick exoskeleton, which is a key visual feature supporting this identification. Crabs are commonly found in shallow ocean waters, often near rocky crevices or coral reefs, which is consistent with the environment depicted in the image.
+
+Crabs play an essential role in their ecosystems as both predators and prey. They are omnivorous, feeding on a variety of organisms such as algae, small invertebrates, and even other crabs. Their movement is"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-32-01to2019-02-22_22-32-15_1-0159_jpg.rf.d942fad7352849ce1689e770d5e0f5d6.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, as it has a thick exoskeleton and is found in shallow ocean waters near rocky crevices or coral reefs. Key visual features supporting this identification include the crab's body shape, size, and the presence of a hard shell. The crab's habitat and environment are typically found in shallow waters, where it can easily access its food sources and avoid predators. Crabs are omnivorous, feeding on a variety of organisms such as algae, small invertebrates, and even other crabs"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_23-58-37to2019-02-22_23-58-49_1-0027_jpg.rf.633e5869f62ad851851d018571bc48d3.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine invertebrate with a distinctive star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which are the primary characteristics of a starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny skin covered with small plates. The habitat of a starfish includes rocky crevices, coral reefs, and other hard surfaces where"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-04-39to2019-03-06_22-04-49_1-0041_jpg.rf.5a67ca14d51f2f3aceb12ee4db35a782.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a crab. Key visual features supporting this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs. Crabs are known for their star-shaped body, which is not visible in the image, but their presence in the ocean environment is consistent with the crab's typical habitat.
+
+Crabs play an essential role in their ecosystems as both predators and prey. They feed"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-52-52to2019-02-21_06-53-01_1-0078_jpg.rf.c192edf93c7fc4be421f5ebef068b957.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine invertebrate with a distinctive star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which are the primary characteristics of a starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny skin covered with small plates. The habitat of a starfish includes rocky crevices, coral reefs, and other hard surfaces where"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_17-07-53to2019-03-19_17-08-34_1-0134_jpg.rf.9bca4bd76a942394a73c380bf06305d8.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates, such as mollusks and crustaceans. They have a strong sense of smell and are able to move quickly"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_23-28-21to2019-02-22_23-28-34_1-0177_jpg.rf.17c81cb93dcc476618fe10847c8c31b8.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish. Starfish are commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+
+Typical habitats for starfish include rocky crevices, coral reefs, and shallow ocean waters. They are predatory animals, feeding on small invertebrates such as crabs and sea anemones. Starfish"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-52-52to2019-02-21_06-53-01_1-0064_jpg.rf.08907d8dbc102f144ac2132bf021dfe2.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The image features a starfish, which is a marine animal with a star-shaped body. Key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish.
+
+Starfish are typically found on the seabed in every ocean, from the tropics to cold seafloors. They are echinoderms, which means they have a hard, spiny skin. Crabs, on the other hand, are crustaceans with a thick exoskeleton and are commonly found in shallow ocean waters, often near rocky"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_14-30-38to2019-03-19_14-30-50_1-0145_jpg.rf.28aab11b173615f1b5317207b58746d9.jpg,starfish,"<image>
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **starfish**.
+
+Here are some biological facts and ecological context about this species:
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a starfish, as it has a star-shaped body and is commonly found on the seabed in every ocean. The key visual features that support this identification include the presence of a central body with multiple arms, which is a characteristic feature of starfish.
+
+Starfish typically inhabit shallow ocean waters, often near rocky crevices or coral reefs. They play an essential role in maintaining the balance of the marine ecosystem by feeding on various organisms, such as algae, plankton, and small invertebrates. Their"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-22_22-32-01to2019-02-22_22-32-15_1-0200_jpg.rf.2bed47f29175e68796e41ff3011be8cc.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a crab, as it has a thick exoskeleton and is found in shallow ocean waters near rocky crevices or coral reefs. Key visual features supporting this identification include the crab's body shape, size, and the presence of a hard shell. The crab's habitat and environment are typically found in shallow waters, where it can easily access its food sources and avoid predators. Crabs are omnivorous, feeding on a variety of organisms such as algae, small invertebrates, and even other crabs"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-02-21_06-52-16to2019-02-21_06-52-34_1-0166_jpg.rf.9522701c4bf7fd4746c515066331c5a4.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small organisms such as fish, mollusks, and other crustaceans. They have a strong sense of smell and are able to move"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-06_22-11-06to2019-03-06_22-11-17_1-0145_jpg.rf.ed89286552f67fa912697713f2f2bf87.jpg,crab,"<image>
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **crab**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is indeed a crab. Key visual features supporting this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs. Crabs are known for their star-shaped body, which is not visible in the image, but their presence in the ocean environment is consistent with the crab's typical habitat.
+
+Crabs play an essential role in their ecosystems as both predators and prey. They feed"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-19_18-01-56to2019-03-19_18-02-13_1-0165_jpg.rf.620eaab05de404053a3f62c1f9041748.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates, such as mollusks and crustaceans. They have a strong sense of smell and are able to move quickly"
+/workspace/Marine/DU-MobileYOLO-main/brackish_dataset/test/images/2019-03-21_01-41-04to2019-03-21_01-41-16_1-0091_jpg.rf.d4a37d742c28ddfba009e50914b19e47.jpg,small_fish,"<image>
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT:","
+USER: The object in the image is predicted to be a **small_fish**.
+
+Here are some biological facts and ecological context about this species:
+Crabs are crustaceans with a thick exoskeleton and are typically found in shallow ocean waters, often near rocky crevices or coral reefs.
+Starfish are echinoderms known for their star-shaped body, commonly found on the seabed in every ocean, from the tropics to cold seafloors.
+Sea anemones are predatory marine animals that resemble flowers and are found attached to rocks or coral in shallow waters.
+
+Based on this information and the image, explain:
+- Key visual features that support this identification
+- Typical habitat and environment
+- Ecological role, feeding behavior, and movement
+- Distinctive traits for accurate classification
+
+ASSISTANT: The object in the image is a small fish, which is a crab. The key visual features that support this identification include the presence of a thick exoskeleton, which is a characteristic of crabs, and the fact that it is found in shallow ocean waters, often near rocky crevices or coral reefs, which is a typical habitat for crabs. Crabs are known for their predatory behavior, feeding on small invertebrates, such as mollusks and crustaceans. They have a strong sense of smell and are able to move quickly"
