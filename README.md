@@ -58,7 +58,7 @@ example:
 ### Acknowledgement
 
 This project was developed as part of the USRF-2025 Fellowship.
-- Pushkar Sharma, B.Sc., IIT Patna
+- Pushkar Sharma, IIT Patna
 - Ayush Malviya, IIT Madras
 
 Under mentorship of:
